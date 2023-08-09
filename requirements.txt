@@ -1,0 +1,4 @@
+newsapi-python
+requests
+json
+sys
